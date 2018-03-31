@@ -4,9 +4,9 @@
 # CopyWrite: 2018
 # Version: 1.0
 
-RED='\033[0;31m'
-NC='\033[0m'
-GREEN='\033[0;32m'
+RED='\033[0;31m' # Red
+NC='\033[0m'  # No Color
+GREEN='\033[0;32m'# Green
 
 #today=`date '+%Y_%m_%d__%H_%M_%S'`
 fullfile="aws_instances.json"
